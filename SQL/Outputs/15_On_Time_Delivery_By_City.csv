@@ -1,0 +1,7 @@
+City,Delivered_Orders,On_Time_Orders,Late_Orders,On_Time_Rate_Pct,Avg_Delivery_Minutes,Max_Delivery_Minutes
+Mumbai,857,308,549,35.94,37.61,65
+Delhi,877,336,541,38.31,36.83,65
+Bengaluru,738,283,455,38.35,36.37,65
+Chennai,703,277,426,39.4,36.09,65
+Pune,778,319,459,41,36.15,65
+Hyderabad,698,290,408,41.55,36.08,65

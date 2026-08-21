@@ -1,0 +1,2 @@
+total_orders,negative_delivery_time,zero_delivery_time,minimum_delivery_minutes,maximum_delivery_minutes,average_delivery_minutes
+5000,0,0,8,65,36.55

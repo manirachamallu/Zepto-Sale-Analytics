@@ -1,0 +1,5 @@
+Customer_Segment,Customers,Total_Orders,Delivered_Orders,Total_Revenue,Revenue_Per_Customer,Orders_Per_Customer
+Regular,493,2440,2249,1869248.45,3791.58,4.95
+Loyal,239,1938,1815,1523333.4,6373.78,8.11
+Occasional,216,577,542,443878,2054.99,2.67
+One-time,45,45,45,32195.25,715.45,1

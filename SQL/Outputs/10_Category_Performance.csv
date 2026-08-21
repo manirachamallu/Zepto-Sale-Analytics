@@ -1,0 +1,6 @@
+Category,Total_Orders,Units_Sold,Total_Revenue,Estimated_Gross_Profit,Estimated_Gross_Margin_Pct,Return_Rate_Pct
+Dairy,972,4115,1125993.25,1804.68,0.16,4.73
+Fruits,970,4084,870463.8,1113.26,0.13,4.02
+Vegetables,979,4067,800686.95,1055.39,0.13,5.01
+Beverages,1032,4273,633722.5,899.37,0.14,5.14
+Snacks,1047,4413,437788.6,915.81,0.21,4.58

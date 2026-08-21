@@ -1,0 +1,4 @@
+OrderStatus,total_orders,missing_delivery_time,min_delivery_minutes,max_delivery_minutes,avg_delivery_minutes
+Delivered,4651,0,8,65,36.56
+Returned,235,0,8,65,36.89
+Cancelled,114,0,8,65,35.25

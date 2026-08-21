@@ -1,0 +1,2 @@
+total_inventory_records,below_reorder_level,above_capacity,normal_stock,stockout_risk_pct,above_capacity_pct
+20,0,8,12,0,40

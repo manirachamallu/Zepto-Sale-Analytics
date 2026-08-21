@@ -1,0 +1,21 @@
+ProductID,Product,Warehouse,CurrentStock,ReorderLevel,Capacity,InventoryStatus
+1014,Biscuits,WH-DEL,988,54,315,Above Capacity
+1019,Coffee,WH-MUM,981,18,1032,Normal
+1002,Apple,WH-HYD,930,45,255,Above Capacity
+1017,Juice,WH-BLR,858,80,1156,Normal
+1013,Chips,WH-MUM,850,89,1357,Normal
+1018,Soft Drink,WH-BLR,833,65,86,Above Capacity
+1004,Mango,WH-HYD,720,98,1009,Normal
+1007,Potato,WH-BLR,642,17,1046,Normal
+1005,Tomato,WH-MUM,641,91,134,Above Capacity
+1011,Butter,WH-MUM,603,62,157,Above Capacity
+1003,Orange,WH-MUM,549,53,185,Above Capacity
+1006,Onion,WH-HYD,441,79,117,Above Capacity
+1015,Chocolate,WH-DEL,389,67,1351,Normal
+1010,Curd,WH-MUM,375,33,582,Normal
+1012,Cheese,WH-HYD,260,36,234,Above Capacity
+1016,Namkeen,WH-BLR,222,31,482,Normal
+1008,Carrot,WH-HYD,196,13,1228,Normal
+1001,Banana,WH-BLR,153,88,1055,Normal
+1009,Milk,WH-DEL,107,30,328,Normal
+1020,Tea,WH-MUM,32,31,652,Normal

@@ -1,0 +1,7 @@
+City,Total_orders,Delivered_Orders,Total_Revenue,Avg_OrderValue,Avg_Delivery_Minutes,Return_RatePct,Cancelled_RatePct
+Chennai,751,703,575627.7,818.82,36.09,4.53,1.86
+Hyderabad,746,698,583824.2,836.42,36.08,4.69,1.74
+Bengaluru,788,738,600241.35,813.34,36.37,4.57,1.78
+Pune,836,778,660657.7,849.17,36.15,4.78,2.15
+Mumbai,928,857,723891.65,844.68,37.61,5.06,2.59
+Delhi,951,877,724412.5,826.01,36.83,4.52,3.26

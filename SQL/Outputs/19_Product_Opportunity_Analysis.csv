@@ -1,0 +1,21 @@
+ProductID,Product,Units_Sold,Revenue,Estimated_Gross_Profit,Margin_Pct,Return_Rate_Pct,Business_Action
+1010,Curd,1084,344132.8,79150.54,23,6.27,Core Product
+1008,Carrot,941,233811.9,49100.5,21,6.87,High Profit Growth Opportunity
+1002,Apple,970,349184.85,48885.88,14,4.35,Core Product
+1019,Coffee,1090,194343.8,40812.2,21,4.55,High Profit Growth Opportunity
+1012,Cheese,948,272673.45,38174.28,14,4.87,High Profit Growth Opportunity
+1016,Namkeen,1118,129714,37617.06,29,4.21,Low Priority
+1009,Milk,1103,305127.3,36615.28,12,3.61,Revenue Driver - Low Profit
+1001,Banana,1064,334907.05,33490.71,10,3.6,Revenue Driver - Low Profit
+1005,Tomato,1062,287712.75,28771.27,10,6.82,Revenue Driver - Low Profit
+1015,Chocolate,1108,193214.3,27050,14,1.61,Low Priority
+1011,Butter,980,204059.7,26527.76,13,4.13,Low Priority
+1014,Biscuits,988,90061.7,20714.19,23,7.66,Low Priority
+1017,Juice,1180,203462.4,20346.24,10,5.49,Low Priority
+1018,Soft Drink,1025,198870.2,19887.02,10,6.32,Low Priority
+1006,Onion,1014,215586,19402.74,9,3.4,Low Priority
+1004,Mango,1090,70401.6,16192.37,23,2.33,Low Priority
+1003,Orange,960,115970.3,12756.73,11,6.03,Low Priority
+1020,Tea,978,37046.1,8891.06,24,4.13,Low Priority
+1007,Potato,1050,63576.3,8264.92,13,2.83,Low Priority
+1013,Chips,1199,24798.6,6199.65,25,4.84,Low Priority
